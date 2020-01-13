@@ -2,5 +2,5 @@
 
 ### Actually it's just me flying with my ears
 
-![Ear in](/images/ear_out.png)
-![Ear out](/images/ear_in.png)
+![Ear in](https://raw.githubusercontent.com/schesa/eatty/master/images/ear_in.PNG)
+![Ear out](https://raw.githubusercontent.com/schesa/eatty/master/images/ear_out.PNG)
