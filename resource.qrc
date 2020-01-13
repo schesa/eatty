@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/buritto.png</file>
+        <file>images/knife.png</file>
+        <file>images/knife2.png</file>
+        <file>images/s_knife.png</file>
+        <file>images/top_knife.png</file>
+        <file>images/bottom_knife.png</file>
+        <file>images/schesa.jpg</file>
+        <file>images/schesa_down.jpg</file>
+        <file>images/schesaDOWN.png</file>
+        <file>images/schesaUP.png</file>
+        <file>images/s_schesaDOWN.png</file>
+        <file>images/s_schesaUP.png</file>
+    </qresource>
+</RCC>
